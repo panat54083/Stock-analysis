@@ -1,0 +1,3 @@
+pyuic5 -x New_data.ui -o DataWindow_New.py
+
+pyuic5 -x Custom_Word.ui -o Custom_Word_UI.py
